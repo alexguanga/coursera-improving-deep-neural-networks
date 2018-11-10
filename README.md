@@ -17,12 +17,13 @@ This is the second part of his Deep Learning Course. Excellent course!
 ---
 
 ## Sections:
-1. [Setting up your Machine Learning Application](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/01_IntroductionToDeepLearning.ipynb)
-2. [Regularizing Your Neural Network](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/commit/7ca8cf4161c07dec33e60972b6f8829190950a60)
-3. [Setting Up Your Optimization Problem](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/03_Python%26Vectorization.ipynb)
-4. [Optimizing Algorithms](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/04_ShallowNetwork.ipynb)
-5. [Hyperparameter Tuning](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/05_DeepNeuralNetwork.ipynb)
-6. [Batch Normalization](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/05_DeepNeuralNetwork.ipynb)
-7. [Multi-Class Classification](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/05_DeepNeuralNetwork.ipynb)
+1. [Setting up your Machine Learning Application](https://github.com/alexguanga/coursera-improving-deep-neural-networks/blob/master/01_SettingMachineLearnApplication.ipynb)
+2. [Regularizing Your Neural Network](https://github.com/alexguanga/coursera-improving-deep-neural-networks/blob/master/02_Regularization.ipynb)
+3. [Setting Up Your Optimization Problem](https://github.com/alexguanga/coursera-improving-deep-neural-networks/blob/master/03_SettingOptimizationProblem.ipynb)
+4. [Optimizing Algorithms](https://github.com/alexguanga/coursera-improving-deep-neural-networks/blob/master/04_OptimizingAlgorithms.ipynb)
+5. [Hyperparameter Tuning](https://github.com/alexguanga/coursera-improving-deep-neural-networks/blob/master/05_HyperparameterTuning.ipynb)
+6. [Batch Normalization](https://github.com/alexguanga/coursera-improving-deep-neural-networks/blob/master/06_BatchNormalization.ipynb)
+7. [Multi-Class Classification](https://github.com/alexguanga/coursera-improving-deep-neural-networks/blob/master/07_Multi-ClassClassification.ipynb)
+8. [Introduction to programming frameworks](https://github.com/alexguanga/coursera-improving-deep-neural-networks/blob/master/08_IntroToProgrammingFrameworks.ipynb)
 
 ---
